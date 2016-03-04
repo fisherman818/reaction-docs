@@ -438,6 +438,13 @@
     },
     {
       "class": "guide-sub-nav-item",
+      "alias": "product-test-plan",
+      "label": "Product Test Plan",
+      "repo": "reaction-docs",
+      "docPath": "developer/testing/product-spec.md"
+    },
+    {
+      "class": "guide-sub-nav-item",
       "alias": "using-factories-for-testing",
       "label": "Factories",
       "repo": "reaction-docs",
